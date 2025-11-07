@@ -1,3 +1,4 @@
 env
 .env
-documment_portal.egg-info/
+document_portal.egg-info
+document_portal.egg-info/
