@@ -4,5 +4,5 @@ setup(
     name="document-portal",
     version="0.1.0",
     packages=find_packages(),
-    author="Joshua Fernandes"
+    author="Joshua Fernandes",
 )
